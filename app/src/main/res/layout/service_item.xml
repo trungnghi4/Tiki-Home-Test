@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/home_service_item"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dp15"
+    android:background="@color/home_bg_service">
+
+    <ImageView
+        android:id="@+id/img_service"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/home_service_icon"
+        android:layout_margin="@dimen/dp15"
+        android:src="@drawable/ic_airplane" />
+
+    <TextView
+        android:id="@+id/tv_service_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp10"
+        android:gravity="center"
+        android:textColor="@color/home_header_sub_title"
+        android:textSize="@dimen/sp15"
+        app:layout_constraintTop_toBottomOf="@+id/img_service" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

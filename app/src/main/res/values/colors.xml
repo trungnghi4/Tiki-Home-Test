@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="text">#fff</color>
+    <color name="home_bg_service">#002c5d</color>
+    <color name="home_header_title">#000</color>
+    <color name="home_header_sub_title">#fff</color>
+    <color name="bg_line">#F1F1F3</color>
+    <color name="bg_login">#ea3651</color>
+    <color name="bg_register">#12c1ff</color>
+    <color name="bg_tiki_deal">#f43667</color>
+</resources>

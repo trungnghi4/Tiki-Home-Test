@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestHomeTiki</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="register">ĐĂNG KÝ</string>
+    <string name="home_service">Dịch Vụ Tiện Ích</string>
+    <string name="home_bank_card_title">Ưu đãi &amp; hợp tác</string>
+    <string name="home_bank_card_title_des">Các ưu đãi cho chủ thẻ ngân hàng</string>
+    <string name="home_hot_keyword">Từ khóa hot</string>
+    <string name="home_login_register">Đăng nhập để trải nghiệm tốt nhất</string>
+    <string name="home_deal_title">Tiki deal</string>
+
+    <!-- Error-->
+    <string name="error_internet_no_connection">Vui lòng kiểm tra kết nối mạng</string>
+    <!-- Server error message -->
+    <string name="server_page_not_found_error">Không tìm thấy dữ liệu</string>
+    <string name="server_bad_request_error">Dữ liệu lỗi, vui lòng thử lại</string>
+    <string name="server_failed_error">Lỗi hệ thống</string>
+    <string name="server_unknown_error">Xảy ra lỗi, vui lòng thử lại</string>
+</resources>

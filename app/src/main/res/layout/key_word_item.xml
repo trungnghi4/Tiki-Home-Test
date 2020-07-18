@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_key_word"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_marginEnd="@dimen/dp10">
+
+    <TextView
+        android:id="@+id/tv_key_word"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="@dimen/dp13"
+        android:textColor="@color/home_header_sub_title"
+        android:textSize="@dimen/sp15" />
+</androidx.constraintlayout.widget.ConstraintLayout>
